@@ -11,6 +11,8 @@ This is the second project of the fulltime Software Engineering program at Tripl
 - A custom form
 - CSS animation and transform
 
+- Here is the link: http://127.0.0.1:5500/index.html
+
 ## Plan on improving the project
 
 Add your ideas here :)
